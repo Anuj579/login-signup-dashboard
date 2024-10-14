@@ -47,7 +47,7 @@ export default function SignupPage() {
                     <div>
                         <Button
                             type="submit"
-                            className="w-full mt-5"
+                            className="w-full mt-5 bg-green-700 hover:bg-green-600"
                         >
                             Signup
                         </Button>
